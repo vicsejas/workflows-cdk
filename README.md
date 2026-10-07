@@ -209,4 +209,4 @@ return Response.error(
 
 ## License
 
-This project is licensed under the Stacksync Connector License (SCL) v1.0.
+This project is licensed under the [Stacksync Source Available License 1.0](./LICENSE).
